@@ -1,0 +1,8 @@
+export enum EInternalErrorCodes {
+	EBADREQ	=	'EBADREQ',
+	EACCDUP	=	'EACCDUP',
+	EGENTKN	=	'EGENTKN',
+	ESMTPSD	=	'ESMTPSD',
+	EACCVRY	=	'EACCVRY',
+	EDBFIND	=	'EDBFIND',
+}
